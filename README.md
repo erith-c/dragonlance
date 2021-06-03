@@ -1,80 +1,123 @@
-# Dragonlance Campaign README
-Document repository for the Dragonlance D&D 5e campaign.
+# Dragonlance-Adjacent Campaign
 
 ## Ground Rules
 
-### 1. Don't be an asshole.
-We're all a team; no one needs to be adversarial in this game. Whether you are neurodiverse, LGBTQIA+, struggle with mental health, or have suffered some kind of abuse, doesn't matter to me. All are welcome here and discrimination and aggression are not tolerated. If you have a problem with myself or another player, feel free to DM me outside of the game and we can discuss the problem--everyone here has their own issues to contend with, however, and there is no excuse for making another participant feel attacked or ignored.
+The ground rules of this campaign serve the purpose of laying out what is and is not allowed at my "table". I will change ground rules as absolutely necessary--but for the most part, I want these to be a static ruleset that allow this game to be safe and inclusive for everyone involved.
 
-### 2. It's okay to not be the best. In fact, I encourage it.
-I know for some it is incredibly popular to "min-max" characters and take feats that make their character not only optimal, but hard to beat. While some DMs like this challenge, I don't have the time or attention to take hyper-optimization into account. I'm not running a power fantasy campaign. I'm sorry, it's just not who I am, and if that's a problem then this campaign may not be for you. I encourage you to build your character based on organic progression, rather than trying to "maximize" your character's combat potential. This rule ties into some of the house rules, but in essence...I don't care if your character is really good at something--that's totally fine. But if your character starts making my life difficult because you're trying to "be the guy"...that's not okay. Thanks.
+### 1. Ill-natured assholes will not be tolerated.
 
-### 3. As a DM, I try to be fair.
-If I make a ruling that you feel is unfair, or if you have an idea that you think would add to the group's story, feel free to ask me about it. Generally speaking, if you can justify it to me I will be more likely to allow it than if you just say "it's what my character would do." Keep in mind, however, that I reserve the right to veto any suggestion given if it would negatively impact the story or if it would be beyond the realm of possibility.
+Let me clarify this--if you watch Critical Role, you will understand what I mean when I say that while you can certainly _play_ an asshole (such as Beauregard from Campaign 2), this does not give you license to treat the other players or their characters poorly for the sole reason of your character being an asshole. Even in Critical Role, Beauregard is perceived as an asshole not because she treats people badly, but rather because she has many issues related to trust and has difficulty being honest and friendly. Note that in the show, she actively works on _not_ being an asshole, which makes those times that she is one stand out and advance the story.
 
-### 4. As a player, you have veto power over your character.
-Your character is your own. When it comes to player interactions and role-play, you have absolute authority over your character. For example, if another player wanted to have your character do something you feel would be out-of-character, you have the authority to say "No, my character wouldn't do that." I may make a suggestion based on the overall narrative or historical precedence, but when it comes to roleplaying your character you, the player, have absolute authority. THIS RULE DOES NOT APPLY TO COMBAT OR SKILL CHECKS, though in line with rule #3, if you can justify your idea, it might be more viable. The only other exception to this rule comes with rule #1--if you try to create a character who is essentially a glorified asshole, I will veto it.
+When I say don't be an asshole, I mean that both as a player and as a character you should be striving to treat others with decency. Disagreement is absolutely okay and is a healthy part of good roleplay. Good-natured arguments are also a good way to build character relationships and narrative development. Some people naturally are more close-guarded and protective of who they trust and see as friends, and this can and should be roleplayed when applicable, so long as the players are capable of keeping it in the game. Remember that this is first and foremost a story we are building together, and everyone should feel welcome and safe to be whoever they want to be at this table; if anyone begins to feel targetted or attacked as a player, then the game loses all enjoyment for that player and that is something I wish to prevent from happening as much as possible.
 
-### 5. Romance is okay. Sex and abuse are not.
-I am most of the time functionally asexual. Sex is a very uncomfortable topic for me, and I will not allow roleplay of it in my game. Your character can be sexual, but be fairwarned that all such acts will take place off-screen. If you and another player want to roleplay a romance, however--i.e., falling in love, spending time together, backing each other up in battle, etc., that's totally okay. This includes NPCs if so desired. Additionally, many people here have endured abusive behavior in some way or form in their lives--cruelty and abuse will not be tolerated in this campaign, whatsoever, except in the form of the abuser getting their comeuppance.
+### 2. Subjects of a sensitive nature will not be tolerated.
 
-### 6. I encourage creative ideas and solutions. Murder is not a creative idea or solution.
-It's a common enough player style to just "murder hobo" the campaign--kill any NPC or group that seems suspicious or disagreeable. _HOWEVER_, such play style does not lend well to a long-term roleplay or story-driven game. I encourage players to find creative ideas and solutions to problems that present themselves in the campaign--I'm not saying everyone has to be lawful or even good, just that players should plan on finding non-murder related solutions where it makes sense to. If the party doesn't abide by this rule, there will be consequences in the game. For example, if you choose a "lawful good" paladin who seeks out and kills evil on sight, and you see everyone who opposes you as "evil", then you're likely going to run into some pretty steep issues--namely, your alignment, which affects your connection to your deity; law enforcement, karma, and even character revocation are all possible outcomes depending on the severity of offense in violation of this rule. DON'T MURDER HOBO.
+Although I shouldn't need to say this, most of you are strangers. My aim is to provide a safe space for people to escape and have a few hours of enjoyment. Everyone comes from a diverse background and life history, and things that are no big deal to one player may be triggering to another. A few topics, therefore, will be disallowed for roleplay. This includes, but is not limited to:
+- Rape and sexual violence
+- Racism
+- Real world politics
+- Discrimination against or targeting any marginalized group
+- Discrimination against or targeting any emotional or mental health differences
 
-### 7. My door is open.
-I don't want anyone to think that they cannot reach out if there is a problem or concern in this campaign. If there is content or a player making you uncomfortable, please feel free to DM me about it, and I will happily discuss it with you outside of the game. I believe in making a safe space for players, and while I'm empathic, I'm not a mind reader--so please, if there's an issue, even if it's with something I said or did, tell me. If I'm the problem, I can promise I will do my best to correct the issue, and if another player or specific content is the issue, I will do my best to reach a place where we can all be comfortable.
+Some players may wish to use their own life experiences to enhance a character or wish to explore a particular trait or aspect in roleplay--these are generally okay to do. This rule doesn't exist to say these things don't exist--for example, a player may wish to have her character have been a victim of violence in the past and use that to shape her character's story. This is totally fine, so long as it does not lead to a violation of rule #1. Another player may wish that his character was a contributor to racism and and is on a journey to be a better person--this is also okay. What is not okay is a player choosing to have a character engage in these subjects. Such instances will be, when possible, handled out of game, but if necessary I will stop the play to address the issue.
 
-### 8. I am only the story teller. We all make the story together.
-I hope I've communicated by this point that this is something we are all engaged in together. My goal here is to have fun telling a story with you, the players, as the main cast. Of course, I will be planning out a lot of things in advance and there may be times that I have to make determinations based on those story plans...however, that is a world and NPC situation. You all have your own stories about your characters to tell. Together, we will intertwine those stories to create something truly impressive. At least, that's my goal.
+### 3. Sex will not be depicted on screen.
+
+If you want to romance a character, that is fine. I, however, am most of the time functionally asexual and sex is uncomfortable for me. I won't allow it on screen--but that doesn't mean it can't happen. Inter-player romance is also acceptable, _so long as both players agree and are comfortable_, and may be roleplayed during moments of rest in the campaign--such as camping, for example.
+
+### 4. As a player, you have veto power over your character...
+
+There is nothing more frustrating as a player than having something in mind and having someone overrule that because "their character would" or any such thing. Having your agency removed over your own creation is a crushing experience, and removes all fun from the game. As such, as a player you have near-absolute veto power over your character in roleplay. If another player chooses to engage your character in a way that makes you uncomfortable or is not in line with how you want your character to be handled, you have the right to say no. The only exception comes in rule #5.
+
+Keep in mind, that this is a story being made as a group, and human agency is a thing we must take into account, however. There will be times when a shenanigan occurs and it is often more fun for the sake of the group to play along--for example, if you have an "emo" rogue who is standoffish is suddenly polymorphed into a cat by the party's wizard. As a player, you have the opportunity to role against the polymorph and veto authority over how your character acts as a cat--including being picked up or pet. But you can't say "no, the polymorph doesn't happen" unless you have an in-game reason why the spell wouldn't be able to occur.
+
+### 5. ...as a DM, I have power over the story.
+
+There will be times when the players intend to do something and I will say no. I hope that this is a very rare situation, as the game is so much more fun when we are all on the same page. However, there may be times when, because of the story roleplay determinations are overruled. This will always be addressed with the player in question privately and an agreement will be made outside the game if necessary. The important thing here is to ensure all players are comfortable and having fun--but that doesn't mean that things will always go the way you want.
+
+That said, however, if you have an idea then please ask. I may be more willing to allow something I vetoed if you can provide a decent enough explanation for how and why it's a thing you could do. I may still say no, but it's not in me to strip away agency and creativity for the sake of an iron-clutch on the story I've conceived, because sometimes the best stories are the ones that go off the rails.
+
+But don't expect a natural 20 to seduce the enemy to mean you're in the clear and scot-free, and don't expect a nation to be handed to you just because you can be really convincing. :)
+
+### 6. If you choose murder as a means to solving a problem, expect an appropriate response.
+
+While our Dragonlance-adjacent world is a medieval-based setting and there are certainly times when you can "get away" with something, remember that actions have consequences. You never know who may be watching or what means someone may have to ascertain what happened. This is a game where dead spirits can be raised to find out who killed them, where powerful curses can twist and change the land, where demons and dragons can shapeshift into normal humanoids and where magic can let people talk over thousands of miles. Exercise caution in who you choose to kill. You may not like the result.
+
+### 7. As the DM, my door is _always_ open.
+
+If there is something in the campaign or roleplay that makes you uncomfortable, please let me know. If it makes you feel safer, you can private message me about it, or bring it up in the group. Either way, never feel that you must endure or tolerate something simply because no one else in the group seems to realize there's a problem. I am to make a safe space here, but I'm not omniscient, and I won't always realize there's a problem unless you tell me. I can promise, however, that I will work to correct the issue or help clarify something. Even if the concern is something I said or did, never feel afraid to bring it up to me personally.
 
 ## House Rules
 
-### 1. All homebrew or custom content must be approved by me in advance.
-This includes feats, spells, anything. I reserve the right to say no, no matter how fun or epic something may be.
+### 1. No homebrew or custom content without approval by me.
 
-_Why this rule exists:_ I've encountered a lot of players who use homebrew specifically to mess with their DM, or another player.
+This includes feats, spells, etc. I reserve the right to say no to anything, no matter how fun or particularly you like it. I also reserve the right to--while consulting with you--modify custom/homebrewed content for fairness.
 
-### 2. Every character will get one Miracle per campaign.
-These Miracles are fate-altering, doomsday-averting occurrences that change the entire course of destiny itself. They, therefore, should be treated as such by the players and used only as an absolute last resort. These can be used to avert a TPK, grant a last wish, or avert a catastrophe; they cannot, however, be used to "kill off" a boss or negate the consequences of an action. They are a boon, not a spell, and once a character has used their Miracle, they will not get another one. Keep in mind also that pulling on the threads of fate with such force also has consequences, which you may or may not see immediately. You choose when to use it and can make suggestions on what you think might be an appropriate consequence, but the consequence is at my discretion.
+### 2. Every character will get one Miracle _per campaign_.
 
-_Why this rule exists:_ I've been through TPKs and character deaths early in the campaign before. It sucks. This is an optional way to avoid those from happening.
+A Miracle is an original idea of mine, akin to the wish spell. These Miracles are fate-altering, crisis-averting occurrences that can change the entire course of destiny. Once a Miracle is used, it cannot be regained by the character that used it for the remainder of the campaign, and using a Miracle carries a severe consequence--though what that consequence is may not be readily apparent. Pulling on the threads of fate changes the tapestry of destiny in ways not always noticeable at first.
 
-### 3. Every character must have a definable Flaw that cuts through to their very core.
-A Flaw of this nature is not a cosmetic blemish or quirk of personality--it is something integral to the character themself that has shaped how they interact with the world around them. If your character's Flaw is that they are afraid of fire, then being around or using fire will have a consequence on that character. You will determine that character's consequence in conversation with me during session 0.
+Miracles do have some parameters in their use. They are a boon from an entity outside of reality, not a spell, and calling on a Miracle _may not work as intended_, though the intent of the Miracle will be achieved.
 
-_Why this rule exists:_ Flaws make character development interesting. They also create some dynamic character interactions that can lead to incredible roleplay, even in goofy campaigns.
+Some suggested uses of a Miracle include:
+- averting a TPK
+- granting a last wish
+- escaping a catastrophe
+- save a party member from the clutches of death
 
-### 4. A natural 20 is not an automatic success.
-A natural 20 represents the pinnacle of what you can achieve. There will be times--hopefully not often--where you get a natural 20 and you still fail. I will be the judge of when this is the case, but rest assured that it's not a likely occurence by any means. If, however, your level 3 sorcerer decides to summon Cthulhu thinking she can control it...buddy, you've got another thing coming.
+Some things a Miracle will not do:
+- kill a boss
+- negate the consequences of an ill-advised action
+- restore an already spent Miracle
+- stop the end of the world
 
-_Why this rule exists:_ Some actions have consequences. If you do something to try to derail the campaign, instead of derailing the campaign you're going to have to deal with a consequence. So many DMs have worked hard to carefully craft a story only to have the "natural 20 rule" result in something stupid that throws all that work out the window. This rule exists to keep that from happening. You can't roll persuasion on the darkness and expect it to be your friend, especially if it hates and wants to consume you. Sorry.
-#### 4a. In combat, a natural 20 is not an automatic success, but if it hits, it is an automatic crit. Natural 19s are crit chances.
+The use of a Miracle is a powerful thing, and will be roleplayed accordingly. Your character will be asked important questions and have a divine experience in the process, after which you will be judged and your worthiness of the Miracle will be determined. Choose wisely when and how you will use your Miracle--you will only get one.
 
-### 5. You can play whatever you want, so long as it's within reason.
-I don't care if you want to play an LGBTQIA+ character, a character with mental health issues, neurodiversity, etc. Whatever makes you happy. If you do choose a character with something like this, however, I expect you to roleplay it properly, and not make a joke of it. I may require you to change the way you play it if doing so violates the above rules or harms the way other players experience the story, however. ADHD is not just distractibility, depression is not just being sad, and being bisexual doesn't give you an excuse to pursue whatever you come across relentlessly. These are not Flaws; they are complex real world issues that have real world consequences, and I expect them to be treated with respect.
+### 3. I like roleplay. Expect to do it.
 
-If you want to portray one of these things, please discuss it with me privately so we can give it proper treatment in the story.
+Now, that doesn't mean you have to get super expressive and deep with your character. It doesn't mean that you have to be an excellent actor. I do, however, want you to try to _be_ your character. If your character gets a new ability, describe how your character uses this ability--especially if it's for the first time! If your character wants to have a conversation with another character, feel free to engage them in it. Have fun!
 
-"Within reason" means within the context of the story. You can't play a dragon or an eldritch deity, unless said dragon or deity are rendered to the capability of the rest of the party. Sorry.
+### 4. A natural 20 is _not_ an automatic success.
 
-_Why this rule exists:_ While I wish it was simply a formality, we've all met those players who make mockeries of things that can trigger others. This rule exists to help ensure that doesn't happen.
+A natural 20 represents the pinnacle of what you can achieve. Sometimes, your character simply will not have the capability of the action you wish to perform. There will be times--hopefully not often--where you get a natural 20 and you still fail. That said, rolling a natural 20 is a beautiful and wonderful occurrence and it will still be treated with the value that it deserves. You can't roll diplomacy on the darkness and expect it to be your friend, however.
 
-### 6. At the end of every session, I will hold a vote for who the best roleplayer was. That player will get a reward. 
-It may be an one-use item, a shard of luck, extra gold or even a bit of information. The reward will be determined ahead of time--but everyone together decides the recipient.
+### 5. I don't really care what you play.
 
-_Why this rule exists:_ To encourage roleplay and engagement with the story. We all benefit from players being engaged in what is going on, even if they're not on-screen at the moment and this makes the experience more enjoyable for everyone.
+Just don't make it weird, okay? My game isn't the place to live out your kink fantasy. I'm sorry. It's just not something I'm comfortable with. But if you want to play a kenku that only parrots what other people say or you want to play a character that represents a marginalized group, go for it! So long as you don't make anyone at the table (including myself) uncomfortable with your choice, I'm more than happy to allow it, within reason. If you wish to portray a mental health issue, LGBTQIA+ representation, or particular concept and aren't overly familiar with it outside of the game, speak with me privately and we can discuss it.
 
-### 7. No metagaming. If your character would know it, you can act on it; otherwise, no.
-However, if a party member is fighting a monster below the surface of a lake and is put on death's door--and your character is up on land and has no idea that happened, even if you _as the player_ know it did, you cannot cast a spell to stabilize them--you would need to disengage from your battle, go into the water, and discover it first before being able to act on it. I do understand this is a harsh idea, however this is where Ground Rule #3 is very applicable--if you can justify an action's reasonability, then you might be able to get it.
+### 6. At the end of every session, I will hold a vote for who engaged in the best roleplay for that session. That player will get an in-game reward.
 
-_Why this rule exists:_ I think I summed it up in the rule itself--but it's to add weight to your decisions.
+This vote will be cast among the players. The reward may be a one-use item, a shard of luck, gold, or even information. This reward will be handed out at the following session.
 
-### 8. In conjunction with House Rule #7, death saving throws are made in private DM with me. 
-In the heat of battle, your character may be unaware of what is going on around you and you may need to prioritize defeating the enemy versus helping your teammate, as you won't know how close to death your teammate is.
+### 7. No metagaming.
 
-_Why this rule exists:_ To help with rule #7. If other players are unaware of death saving throws, they are less likely to metagame.
+If your character would know it, they can act on it. However, even if you _as the player_ are aware of it, if your character is not then they cannot act on it. It's part of good roleplay.
 
-### 9. Played in absentia.
-If a player is unable to attend, they can optionally elect a player to play their character for them, including roleplay, skill checks and combat. The elected player may choose to accept or not. If a player is not elected or the elected player refuses, the absent player's character will be minimally controlled by the DM--this means roleplay will be minimal, and the DM will handle skill checks and combat. If more than two players are unable to attend, then the session will be rescheduled.
+As a part of this, you as the players can determine if you would like me to roll your death saving throws; this may make it easier for you to roleplay during combat, but it may not--it will be up to the general consensus. Similarly, use descriptive language for your health status, not numbers.
 
-_Why this rule exists:_ Primarily, it exists to preserve player autonomy with respect to their character, and not to punish the party for the player's absence. For many players, not being able to attend a session can throw the entire party out of wack in their absence. This provides an organic way of having the character present for the story without endangering the party, while allowing the respected player to elect someone they trust to play their character as though they were there in their absence if so chosen.
+### 8. Played in absentia.
+
+Unless otherwise determined, I--or another player of your choice--can play your character for you should you need to be absent from a session. If you can't attend and would like your character played, message me on Discord with a screenshot of your characters stats and abilities and who you would like to have play your character. If you don't list anyone, I'll assume its me.
+
+If you choose not to elect this option, that's okay; if your character is present with the party they will simply not engage in roleplay or combat--but it's there if you want it.
+
+### 9. XP
+
+We're doing story-based leveling and point-buy. You will all level at story milestones--this way, no characters are left behind if they are unable to participate. The point buy rules are as follows:
+
+No stat can go below 6, and no stat can go above 17 pre-racial changes. All stats start at 9. You have 24 points to spend. All other normal rules apply.
+
+Score | Cost
+:---:|:---:
+6 | +3
+7 | +2
+8 | +1
+9 | 0
+10 | -1
+11 | -2
+12 | -3
+13 | -4
+14 | -5
+15 | -6
+16 | -7
+17 | -8
